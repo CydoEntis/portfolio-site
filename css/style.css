@@ -30,6 +30,12 @@ p {
 	background: #f8f9fa;
 }
 
+.r-btn {
+	padding: 5px 20px;
+	background-color: #ee8683 !important;
+	color: #fff;
+}
+
 /* Navigation */
 nav.r-nav {
 	background: transparent;
@@ -148,9 +154,9 @@ header {
 
 /* Experience */
 .exp-class .progress {
-	height: 10px;
+	height: 20px;
 	border-radius: 20px;
-	font-size: 10px;
+	font-size: 14px;
 }
 
 .progress-bar {

@@ -11,7 +11,7 @@ $(document).ready(function () {
 
 	// Add Typing effect.
 	let typed = new Typed('.element', {
-		strings: ['John Doe', 'a Developer', 'a Designer', 'a Businessman'],
+		strings: ['Marvin', 'a Developer', 'a Designer', 'a Businessman'],
 		smartBackspace: true,
 		typeSpeed: 100,
 		backSpeed: 100,
